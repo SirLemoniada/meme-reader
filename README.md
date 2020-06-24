@@ -7,4 +7,6 @@ required libs:
 * opencv-python
 * Pillow
 
-change *mypath* variable in *name_them_all.py* to your meme folder's path and simply run the following script
+change _**mypath**_ variable in _**name_them_all.py**_ to your meme folder's path and simply run the following script
+
+**works on linux machines only**
